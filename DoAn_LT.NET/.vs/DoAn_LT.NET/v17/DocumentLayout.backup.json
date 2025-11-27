@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|c:\\users\\tramy\\downloads\\doan_lt.net-pats\\demo\\ftkb_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|solutionrelative:demo\\ftkb_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\demo\\ftkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|solutionrelative:demo\\ftkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\demo\\ftkb_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|solutionrelative:demo\\ftkb_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0529A2-FBC7-4C88-BA5C-4C2D255FD53C}|Demo\\QLGV_THPT.csproj|solutionrelative:Demo\\fTKB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:11:23.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fTKB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB.cs",
+              "RelativeDocumentMoniker": "Demo\\fTKB.cs",
+              "ToolTip": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB.cs [Design]",
+              "RelativeToolTip": "Demo\\fTKB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:53:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fTKB.cs",
+              "DocumentMoniker": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB.cs",
+              "RelativeDocumentMoniker": "Demo\\fTKB.cs",
+              "ToolTip": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB.cs",
+              "RelativeToolTip": "Demo\\fTKB.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAADwvxUBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:53:46.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fTKB_Edit.cs",
+              "DocumentMoniker": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB_Edit.cs",
+              "RelativeDocumentMoniker": "Demo\\fTKB_Edit.cs",
+              "ToolTip": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB_Edit.cs",
+              "RelativeToolTip": "Demo\\fTKB_Edit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:02:30.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fTKB_Edit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB_Edit.cs",
+              "RelativeDocumentMoniker": "Demo\\fTKB_Edit.cs",
+              "ToolTip": "C:\\Users\\tramy\\Downloads\\DoAn_LT.NET-Pats\\Demo\\fTKB_Edit.cs [Design]",
+              "RelativeToolTip": "Demo\\fTKB_Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:58:55.836Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
